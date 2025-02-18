@@ -1,7 +1,5 @@
-let msg = 'hola mundo';
-console.log(msg);
-let hero ={
-    name: 'Ironman',
-    age: 23
+const a:number = 10;
+let b:number = 12;
+function saludar(msg:string){
+    console.log(msg);
 }
-console.log(hero)

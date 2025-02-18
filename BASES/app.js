@@ -1,8 +1,6 @@
 "use strict";
-let msg = 'hola mundo';
-console.log(msg);
-let hero = {
-    name: 'Ironman',
-    age: 23
-};
-console.log(hero);
+const a = 10;
+let b = 12;
+function saludar(msg) {
+    console.log(msg);
+}
